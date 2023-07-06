@@ -4,11 +4,11 @@
 }
 div{
     font-size: 10px;
-    font-family: 'courier';
-    line-height: 10px;
+    /* font-family: 'courier'; */
+    line-height: 7px;
     font-weight: 700;
     font-family: 'Courier Prime', monospace;
     /* color: aliceblue; */
-
-    /* background-color: black; */
+    /* color:aliceblue;
+    background-color: black; */
 }

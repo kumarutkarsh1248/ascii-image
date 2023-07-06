@@ -8,7 +8,7 @@ let vScale = 8;
 
 function setup() {
     // pixelDensity(1);
-    createCanvas(640, 480);
+    createCanvas(480, 640);
     noCanvas()
     // background(5);
     video = createCapture(VIDEO);
