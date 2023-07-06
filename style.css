@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    font-size: 10px;
+    font-family: 'courier';
+    line-height: 10px;
+    font-weight: 700;
+    font-family: 'Courier Prime', monospace;
+    /* color: aliceblue; */
+
+    /* background-color: black; */
+}
